@@ -1,0 +1,22 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codearct/PCAT.git"
+  },
+  "author": "MAY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codearct/PCAT/issues"
+  },
+  "homepage": "https://github.com/codearct/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
